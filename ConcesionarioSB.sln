@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{6162CDD0-25E5-43E1-BEB7-5FFEA2E533C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{A91447D0-6DCC-4214-87FF-C90A7D743914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{DA76034C-193C-483A-A1E9-94CDFBD2AF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6162CDD0-25E5-43E1-BEB7-5FFEA2E533C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6162CDD0-25E5-43E1-BEB7-5FFEA2E533C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6162CDD0-25E5-43E1-BEB7-5FFEA2E533C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6162CDD0-25E5-43E1-BEB7-5FFEA2E533C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91447D0-6DCC-4214-87FF-C90A7D743914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91447D0-6DCC-4214-87FF-C90A7D743914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91447D0-6DCC-4214-87FF-C90A7D743914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91447D0-6DCC-4214-87FF-C90A7D743914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA76034C-193C-483A-A1E9-94CDFBD2AF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA76034C-193C-483A-A1E9-94CDFBD2AF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA76034C-193C-483A-A1E9-94CDFBD2AF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA76034C-193C-483A-A1E9-94CDFBD2AF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B06933-A6B3-4F49-BE86-AFEAA6F85011}
+	EndGlobalSection
+EndGlobal

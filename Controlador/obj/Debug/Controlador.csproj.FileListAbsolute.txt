@@ -1,0 +1,22 @@
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Controlador.exe
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Modelo.exe
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\bin\Debug\Modelo.exe.config
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\obj\Debug\Controlador.exe
+C:\Users\Sara\source\repos\ConcesionarioSB\Controlador\obj\Debug\Controlador.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Controlador.exe.config
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Controlador.exe
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Controlador.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Modelo.exe
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Modelo.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\bin\Debug\Modelo.exe.config
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\obj\Debug\Controlador.exe
+D:\Datos\Desktop\ConcesionarioSB - copia\Controlador\obj\Debug\Controlador.pdb

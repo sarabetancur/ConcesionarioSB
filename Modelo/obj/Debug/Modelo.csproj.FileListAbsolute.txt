@@ -1,0 +1,14 @@
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\bin\Debug\Modelo.exe
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\obj\Debug\Modelo.exe
+C:\Users\Sara\source\repos\ConcesionarioSB\Modelo\obj\Debug\Modelo.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\bin\Debug\Modelo.exe.config
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\bin\Debug\Modelo.exe
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\bin\Debug\Modelo.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\obj\Debug\Modelo.exe
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\obj\Debug\Modelo.pdb
+D:\Datos\Desktop\ConcesionarioSB - copia\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
